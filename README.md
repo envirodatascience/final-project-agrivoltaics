@@ -119,3 +119,9 @@ Another viable state for agrivoltaics would be Uttar Pradesh, the state with the
 
 As our analysis indicates, India and the UK are very different geographical contexts and stand to reap different benefits from an agrivoltaics implementation that are relevant to their national needs. However, this project emphasizes that similar social, industrial, and physical factors will influence the success of any agrivoltaics program: where is there enough sun, where is there enough farmland, and where are the commercial, legal, and social variables aligned for implementation? Our project directs the governments of the UK and India into a refined geographic search for the best site for a national pilot project, but also lays the foundation for a global modeling system that could be used to suggest the factors to consider before setting up an agrivoltaics program in any area around the world.
 
+Instructions to view code:
+- Code and analysis are in 617_Agrivoltaics_India and 617_Agrivoltaics_UK. The notebooks can be read in any order. The UK notebook can be opened directly from GitHub using the Colab link. To open the larger India notebook:
+1) Open Colab
+2) Select Github
+3) Select envirodatascience/final-project-agrivoltaics, then select 617_Agrivoltaics_India.ipynb
+
