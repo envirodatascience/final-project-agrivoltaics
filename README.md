@@ -1,5 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/g_e38bz1)
+
+Team Agrivoltaics: Optimizing Solar Through Agrivoltaics for Enhanced Farmland Usage in the UK and India
+
 1) Define the Questions & Goals of the Project
+
+Project question: Which regions within India and the UK would be most suitable for government investigation and investment into pilot agrivoltaic expansion projects, when considering solar data, land availability, and other socio-economic factors? 
 
 Agrivoltaics, also known as solar sharing, is the co-developing of the same area of land for both solar photovoltaic power generation and agriculture. It involves installing solar panels at a higher elevation with wider spacing, allowing crops to be grown underneath and between the panel arrays. As such, agrivoltaics can be a non-invasive, but instead additive way for clean energy generation.
 
